@@ -868,25 +868,5 @@ K = 070239c013e8f40c8c2a0e608ae15a6bffffffffffffffffffffffffffffffff</code></pre
 
 
 
-<h2>Conclusion</h2>
 
-
-
-<p class="has-background" style="background-color:#f78da812">Cryptocurrency can have a significant impact on the security of your business. If you accept cryptocurrency as payment, you could be targeted by criminals. Additionally, if you use cryptocurrency to buy or sell goods and services, you could unwittingly participate in criminal activity.</p>
-
-
-
-<p class="has-background" style="background-color:#f78da812">Businesses can take a&nbsp;few measures&nbsp;to protect themselves from cryptocurrency scams. These include educating yourself and your employees about cryptocurrency, only dealing with&nbsp;reputable firms&nbsp;and exchanges, and keeping your computer security up-to-date.</p>
-
-
-
-<p class="has-background" style="background-color:#f78da812">Though blockchain popularity is still on the rise, an increasing number of cyber attacks on blockchains may negatively affect their reputation. Knowing the most common blockchain vulnerabilities and attack types is a must for everyone who’s concerned about blockchain security and wants to know what to secure first.</p>
-
-
-
-
-
-
-<p></p>
-	</div><!-- .entry-content -->
 
